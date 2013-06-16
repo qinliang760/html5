@@ -7,3 +7,6 @@ http://modernizr.com/docs/#installing
 
 让IE6支持css3，让 IE7、IE8 都支持CSS3
 http://css3pie.com/
+
+IE下用滤镜支持Transformie
+https://github.com/pbakaus/transformie
