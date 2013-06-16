@@ -10,3 +10,7 @@ http://css3pie.com/
 
 IE下用滤镜支持Transformie
 https://github.com/pbakaus/transformie
+
+
+IE下的滤镜
+http://msdn.microsoft.com/en-us/library/ms533014%28v=vs.85%29.aspx
